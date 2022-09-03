@@ -53,8 +53,7 @@
                         <th scope="row"><?php echo $fila["codigo"] ?></th>
                         <td><?php echo $fila["nombre"] ?></td>
                     </tr>
-                <?php } // Cierre del while 
-                ?>
+                <?php } // Cierre del while?>
             </tbody>
         </table>
         <!--Final de la tabla de fabricante-->
